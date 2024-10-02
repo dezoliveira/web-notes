@@ -3,4 +3,4 @@
   <RouterLink to="stats">Stats</RouterLink>
 
   <RouterView />
-</template>
+</template> 
